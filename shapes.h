@@ -3,7 +3,7 @@
 #ifndef SHAPES_H
 #define SHAPES_H
 using namespace std;
-#define M-PI 3.14
+#define M_PI 3.14
 
 class Shape
 {

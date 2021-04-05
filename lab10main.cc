@@ -11,6 +11,9 @@
 
 #include "shapes.h"
 #include <iostream>
+#include "circle.h"
+#include "rectangle.h"
+#include "trapezoid.h"
 
 using namespace std;
 
